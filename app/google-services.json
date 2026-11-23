@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284640223471",
+    "project_id": "body-painmap-diary",
+    "storage_bucket": "body-painmap-diary.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284640223471:android:73fa774daffe617b41bb1a",
+        "android_client_info": {
+          "package_name": "com.ronil.body_painmap_diary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs8qGspcdnR42ZQIXa41qnwxHGEMZ73Uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
